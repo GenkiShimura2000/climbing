@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Climbing</string>
+    <string name="title_text">Climbing Uploader</string>
+    <string name="description_text">Capture videos and upload to YouTube when Wi-Fi is available.</string>
+    <string name="capture_button">Capture (next step)</string>
+    <string name="sync_button">Sync to YouTube (next step)</string>
+</resources>
+
