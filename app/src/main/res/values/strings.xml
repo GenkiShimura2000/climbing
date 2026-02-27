@@ -2,8 +2,20 @@
 <resources>
     <string name="app_name">Climbing</string>
     <string name="title_text">Climbing Uploader</string>
-    <string name="description_text">Capture videos and upload to YouTube when Wi-Fi is available.</string>
-    <string name="capture_button">Capture (next step)</string>
-    <string name="sync_button">Sync to YouTube (next step)</string>
+    <string name="description_text">Select a folder and connect YouTube once. Upload runs on Wi-Fi only.</string>
+    <string name="folder_label">1) 対象フォルダ</string>
+    <string name="folder_not_selected">未設定</string>
+    <string name="select_folder_button">フォルダを選択</string>
+    <string name="youtube_label">2) YouTube連携</string>
+    <string name="youtube_not_connected">未接続</string>
+    <string name="connect_youtube_button">YouTubeを接続</string>
+    <string name="disconnect_youtube_button">YouTube接続を解除</string>
+    <string name="sync_label">3) 同期</string>
+    <string name="sync_idle">待機中</string>
+    <string name="sync_button">今すぐ同期</string>
+    <string name="sync_queued">同期ジョブを登録しました（Wi-Fi接続時に実行）</string>
+    <string name="sync_running">同期中...</string>
+    <string name="sync_failed">同期に失敗しました</string>
+    <string name="sync_succeeded">同期が完了しました</string>
+    <string name="sync_cancelled">同期はキャンセルされました</string>
 </resources>
-
